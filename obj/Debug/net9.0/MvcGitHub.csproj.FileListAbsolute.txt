@@ -95,3 +95,4 @@ D:\DOTNET-SAMPLES\Azure-GitHub-Deployment\MVC\MvcGitHub\obj\Debug\net9.0\refint\
 D:\DOTNET-SAMPLES\Azure-GitHub-Deployment\MVC\MvcGitHub\obj\Debug\net9.0\MvcGitHub.pdb
 D:\DOTNET-SAMPLES\Azure-GitHub-Deployment\MVC\MvcGitHub\obj\Debug\net9.0\MvcGitHub.genruntimeconfig.cache
 D:\DOTNET-SAMPLES\Azure-GitHub-Deployment\MVC\MvcGitHub\obj\Debug\net9.0\ref\MvcGitHub.dll
+D:\DOTNET-SAMPLES\Azure-GitHub-Deployment\MVC\MvcGitHub\obj\Debug\net9.0\MvcGitHub.sourcelink.json
