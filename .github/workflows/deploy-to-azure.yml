@@ -7,7 +7,7 @@ on:
   workflow_dispatch: # Allows you to run the workflow manually
 
 env:
-  AZURE_WEBAPP_NAME: 'my-realtime-mvc-prod    # Replace with your App name
+  AZURE_WEBAPP_NAME: my-realtime-mvc-prod    # Replace with your App name
   WORKING_DIRECTORY: '.'                       # Folder with your .csproj
   DOTNET_VERSION: '9.0.x'                      # Added .x to get the latest security patch
 
